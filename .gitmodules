@@ -4,3 +4,6 @@
 [submodule "sound-equalizer"]
 	path = sound-equalizer
 	url = https://github.com/RamadanIbrahem98/sound-equalizer
+[submodule "kiss-ft-and-fft"]
+	path = kiss-ft-and-fft
+	url = https://github.com/RamadanIbrahem98/kiss-ft-and-fft
