@@ -7,3 +7,6 @@
 [submodule "kiss-ft-and-fft"]
 	path = kiss-ft-and-fft
 	url = https://github.com/RamadanIbrahem98/kiss-ft-and-fft
+[submodule "image-mixer"]
+	path = image-mixer
+	url = https://github.com/RamadanIbrahem98/image-mixer
