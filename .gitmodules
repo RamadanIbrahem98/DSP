@@ -1,3 +1,6 @@
 [submodule "multiChannelSignalViewer"]
 	path = multiChannelSignalViewer
 	url = https://github.com/RamadanIbrahem98/multiChannelSignalViewer
+[submodule "sound-equalizer"]
+	path = sound-equalizer
+	url = https://github.com/RamadanIbrahem98/sound-equalizer
