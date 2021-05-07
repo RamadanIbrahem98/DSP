@@ -10,3 +10,6 @@
 [submodule "image-mixer"]
 	path = image-mixer
 	url = https://github.com/RamadanIbrahem98/image-mixer
+[submodule "Shazam-Clone"]
+	path = Shazam-Clone
+	url = https://github.com/RamadanIbrahem98/Shazam-Clone
