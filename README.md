@@ -47,6 +47,22 @@ Final requirement is presenting the Spectrogram of the time signal, at this poin
 
 type of signal to use: any open-source medical signal (i.e. ECG, EEG, EMG, ...etc)
 
+### progress in first project
+
+|  # | [multiChannelSignalViewer](https://github.com/RamadanIbrahem98/multiChannelSignalViewer) |       Status       |
+|:--:|:----------------------------------------------------------------------------------------:|:------------------:|
+| 01 |                   Download And Filter Some Open-Sourse Medical Signals                   | :heavy_check_mark: |
+| 02 |                                      Create the GUI                                      | :heavy_check_mark: |
+| 03 |                              Display the Signal in Real-time                             | :heavy_check_mark: |
+| 04 |                                 Add Play, Pause Controls                                 | :heavy_check_mark: |
+| 05 |                               Add Zoom in and out Controls                               | :heavy_check_mark: |
+| 06 |                                       Add Print PDF                                      | :heavy_check_mark: |
+| 07 |                                      Add Spectrogram                                     | :heavy_check_mark: |
+| 08 |                                        Add Autopan                                       | :heavy_check_mark: |
+| 09 |                            Add Move Forward, Backward in time                            | :white_check_mark: |
+| 10 |                           Add Speed Control, Speed up and down                           | :white_check_mark: |
+| 11 |                    Refactor the Spectrogram and use the Matplotlib one                   | :white_check_mark: |
+
 ## Our Team
 
 -   Ramadan Ibrahem - [![linkedin-shield]](https://www.linkedin.com/in/ramadanibrahem/)
