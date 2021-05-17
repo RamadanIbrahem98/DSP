@@ -15,7 +15,7 @@ A good Understanding of **Python** Programming Language and one of its GUI Compo
 Some Familarity with some of python third party packages like **numpy**, **matplotlib** would be a plus\
 basic understanding of the main concepts of OOP is a plus
 
-However, you can apply the consepts of the projects with any other prefered programming language
+However, you can apply the concepts of the projects with any other prefered programming language
 
 ## Projects List
 
@@ -62,6 +62,34 @@ type of signal to use: any open-source medical signal (i.e. ECG, EEG, EMG, ...et
 | 09 |                            Add Move Forward, Backward in time                            | :white_check_mark: |
 | 10 |                           Add Speed Control, Speed up and down                           | :white_check_mark: |
 | 11 |                    Refactor the Spectrogram and use the Matplotlib one                   | :white_check_mark: |
+
+
+## 02 - [sound-equalizer](https://github.com/RamadanIbrahem98/sound-equalizer)
+
+This is the second project in the semester and the first project using Fast Fourier Transform (fft) to process audio files (mainly wav)
+
+### Project Description
+
+You are required to design a GUI application to load and play audio files. when loaded, you should plot the waveform and move it real-time in sync with the audio and plot the signal's spectrogram.
+<br>
+You have to control this audio signal (play, pause, stop) and manipulate the waveform and spectrogram (zoom in and out, move forward, backward) all of this happen in sync (any movement in audio appear in waveform and spectrogram and vice versa)
+<br>
+Humans can only hear from 20HZ to 20KHZ and that depends on age and other medical factors
+<br>
+You are required to slice the range of frequency into 10 bands, then create 10 sliders to control the magnitude of the signal at those bands. It should goes from [0 to 5] times the magnitude
+<br>
+after any change in the equalizer, an after waveform and spectrogram are generated next to the original ones to show the difference between them
+<br><br>
+as for the spectrogram, you should have the ability to:
+
+* choose a color palette from a list of different color palettes
+* control the minimum and maximum magnitude (in db), that controls the color intensity, any value that is less than the minimum or greater than the maximum should be saturated
+<br><br>
+
+just like project 1 you should have a generate PDF button to extract the current view of the waveform and spectrogram before and after equalization
+<br><br>
+
+The Application should have a signal for creating a new instance (New Window)
 
 ## Our Team
 
