@@ -90,6 +90,20 @@ just like project 1 you should have a generate PDF button to extract the current
 <br><br>
 
 The Application should have a signal for creating a new instance (New Window)
+### progress in the second project
+
+|  # | [sound-equalizer](https://github.com/RamadanIbrahem98/sound-equalizer) |       Status       |
+|:--:|:----------------------------------------------------------------------:|:------------------:|
+| 01 |                       Download wav samples online                      | :heavy_check_mark: |
+| 02 |                             Create the GUI                             | :heavy_check_mark: |
+| 03 |              Create controls to play, pause and stop audio             | :heavy_check_mark: |
+| 04 |       Sync audio playback with waveform and spectrogram position       | :heavy_check_mark: |
+| 05 |                           Get the signal fft                           | :heavy_check_mark: |
+| 06 |          Manipulate Each pin with the slider equivalent value          | :heavy_check_mark: |
+| 07 |                          Add palettes combobox                         | :heavy_check_mark: |
+| 08 |                              Add Print PDF                             | :heavy_check_mark: |
+| 09 |                   Add Spectrogram Min and Max decible                  | :heavy_check_mark: |
+| 10 |                      Add new window functionality                      | :heavy_check_mark: |
 
 ## Our Team
 
