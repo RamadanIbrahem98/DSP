@@ -19,13 +19,13 @@ However, you can apply the concepts of the projects with any other prefered prog
 
 ## Projects List
 
-|  # |                                       Project Name                                       |       Status       |
-|:--:|:----------------------------------------------------------------------------------------:|:------------------:|
-| 01 | [multiChannelSignalViewer](https://github.com/RamadanIbrahem98/multiChannelSignalViewer) | :heavy_check_mark: |
-| 02 |          [sound-equalizer](https://github.com/RamadanIbrahem98/sound-equalizer)          | :heavy_check_mark: |
-| 03 |          [kiss-ft-and-fft](https://github.com/RamadanIbrahem98/kiss-ft-and-fft)          | :heavy_check_mark: |
-| 04 |              [image-mixer](https://github.com/RamadanIbrahem98/image-mixer)              | :heavy_check_mark: |
-| 05 |             [Shazam-Clone](https://github.com/RamadanIbrahem98/Shazam-Clone)             | :white_check_mark: |
+|  # |                                       Project Name                                       |          Status          |
+|:--:|:----------------------------------------------------------------------------------------:|:------------------------:|
+| 01 | [multiChannelSignalViewer](https://github.com/RamadanIbrahem98/multiChannelSignalViewer) |    :heavy_check_mark:    |
+| 02 |          [sound-equalizer](https://github.com/RamadanIbrahem98/sound-equalizer)          |    :heavy_check_mark:    |
+| 03 |          [kiss-ft-and-fft](https://github.com/RamadanIbrahem98/kiss-ft-and-fft)          |    :heavy_check_mark:    |
+| 04 |              [image-mixer](https://github.com/RamadanIbrahem98/image-mixer)              |    :heavy_check_mark:    |
+| 05 |             [Shazam-Clone](https://github.com/RamadanIbrahem98/Shazam-Clone)             | :hourglass_flowing_sand: |
 
 <br/>
 
@@ -49,19 +49,19 @@ type of signal to use: any open-source medical signal (i.e. ECG, EEG, EMG, ...et
 
 ### progress in first project
 
-|  # | [multiChannelSignalViewer](https://github.com/RamadanIbrahem98/multiChannelSignalViewer) |       Status       |
-|:--:|:----------------------------------------------------------------------------------------:|:------------------:|
-| 01 |                   Download And Filter Some Open-Sourse Medical Signals                   | :heavy_check_mark: |
-| 02 |                                      Create the GUI                                      | :heavy_check_mark: |
-| 03 |                              Display the Signal in Real-time                             | :heavy_check_mark: |
-| 04 |                                 Add Play, Pause Controls                                 | :heavy_check_mark: |
-| 05 |                               Add Zoom in and out Controls                               | :heavy_check_mark: |
-| 06 |                                       Add Print PDF                                      | :heavy_check_mark: |
-| 07 |                                      Add Spectrogram                                     | :heavy_check_mark: |
-| 08 |                                        Add Autopan                                       | :heavy_check_mark: |
-| 09 |                            Add Move Forward, Backward in time                            | :white_check_mark: |
-| 10 |                           Add Speed Control, Speed up and down                           | :white_check_mark: |
-| 11 |                    Refactor the Spectrogram and use the Matplotlib one                   | :white_check_mark: |
+|  # | [multiChannelSignalViewer](https://github.com/RamadanIbrahem98/multiChannelSignalViewer) |          Status          |
+|:--:|:----------------------------------------------------------------------------------------:|:------------------------:|
+| 01 |                   Download And Filter Some Open-Sourse Medical Signals                   |    :heavy_check_mark:    |
+| 02 |                                      Create the GUI                                      |    :heavy_check_mark:    |
+| 03 |                              Display the Signal in Real-time                             |    :heavy_check_mark:    |
+| 04 |                                 Add Play, Pause Controls                                 |    :heavy_check_mark:    |
+| 05 |                               Add Zoom in and out Controls                               |    :heavy_check_mark:    |
+| 06 |                                       Add Print PDF                                      |    :heavy_check_mark:    |
+| 07 |                                      Add Spectrogram                                     |    :heavy_check_mark:    |
+| 08 |                                        Add Autopan                                       |    :heavy_check_mark:    |
+| 09 |                            Add Move Forward, Backward in time                            | :hourglass_flowing_sand: |
+| 10 |                           Add Speed Control, Speed up and down                           | :hourglass_flowing_sand: |
+| 11 |                    Refactor the Spectrogram and use the Matplotlib one                   | :hourglass_flowing_sand: |
 
 
 ## 02 - [sound-equalizer](https://github.com/RamadanIbrahem98/sound-equalizer)
