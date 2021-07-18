@@ -13,3 +13,6 @@
 [submodule "multiChannelSignalViewer"]
 	path = multiChannelSignalViewer
 	url = git@github.com:RamadanIbrahem98/multiChannelSignalViewer.git
+[submodule "digital-filter-design"]
+	path = digital-filter-design
+	url = https://github.com/RamadanIbrahem98/digital-filter-design
