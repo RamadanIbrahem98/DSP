@@ -10,3 +10,6 @@
 [submodule "Shazam-Clone"]
 	path = Shazam-Clone
 	url = https://github.com/RamadanIbrahem98/Shazam-Clone
+[submodule "multiChannelSignalViewer"]
+	path = multiChannelSignalViewer
+	url = git@github.com:RamadanIbrahem98/multiChannelSignalViewer.git
